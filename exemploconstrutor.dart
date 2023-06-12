@@ -11,6 +11,6 @@ class Pessoa{
   }
 }
 void main(){
-  Pessoa pessoa = Pessoa("Jordana", 17);
+  Pessoa pessoa = Pessoa("Jordana", 18);
   pessoa.imprimirDetalhes();
 }
